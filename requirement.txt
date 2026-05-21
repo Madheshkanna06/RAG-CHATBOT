@@ -1,5 +1,2 @@
-diffusers
-transformers
-accelerate
-safetensors
+ollama
 streamlit
